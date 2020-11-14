@@ -5,9 +5,8 @@ setup(
     name='game',
     version='0.1.0',
     description='Simple python game',
-    author='Rostislav Misiura',
-    author_email='rostislav9999@gmail.com',
-    url='https://github.com/Randomneo/python_game',
+    author='DGB',
+    author_email='grobovoydgb@gmail.com',
     requirments=[
         'pygame==1.9.1release',
         'enum34',
